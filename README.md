@@ -12,3 +12,7 @@ As of right now the templates will make some assumptions regarding your configur
 For example the FAKE template will assume that you have downloaded FAKE using NuGet or paket so that it exists in a specific path.
 
 In the future I am planning on adding limited support for dynamic template generation.
+
+## Contributions
+
+As of right now conformity only supports three different templates. Adding new templates is very easy however and I would be happy to accept pull requests from users who wish to contribute.
